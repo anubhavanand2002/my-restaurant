@@ -6,10 +6,10 @@ export default function Navbar(props) {
   return (
     <>
     <nav className="navbar">
-        <div clssName="btn-group">
+        <div className="btn-group">
            { props.unique.map((currelement)=>{
                 return(
-                    <button className="btn-group__item" onClick={props.filterSelection(currelement)}>{currelement}</button>
+                    <button className="btn-group__item" onClick={()=>props.filter(currelement)}>{currelement}</button>
                 );
             })}
         </div>
