@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//anubhavanand2002.github.io/my_restaurant/static/css/main.d75c4bef.css",
-    "main.js": "//anubhavanand2002.github.io/my_restaurant/static/js/main.11fe77a9.js",
-    "index.html": "//anubhavanand2002.github.io/my_restaurant/index.html",
-    "main.d75c4bef.css.map": "//anubhavanand2002.github.io/my_restaurant/static/css/main.d75c4bef.css.map",
-    "main.11fe77a9.js.map": "//anubhavanand2002.github.io/my_restaurant/static/js/main.11fe77a9.js.map"
+    "main.css": "/my-restaurant/static/css/main.d75c4bef.css",
+    "main.js": "/my-restaurant/static/js/main.11fe77a9.js",
+    "index.html": "/my-restaurant/index.html",
+    "main.d75c4bef.css.map": "/my-restaurant/static/css/main.d75c4bef.css.map",
+    "main.11fe77a9.js.map": "/my-restaurant/static/js/main.11fe77a9.js.map"
   },
   "entrypoints": [
     "static/css/main.d75c4bef.css",
